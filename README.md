@@ -18,9 +18,9 @@ Training Metrics:
 Training Loss: 0.4424
 Training Accuracy: 86.94%
 Validation Metrics:
-
 Validation Loss: 0.5175
 Validation Accuracy: 83.81%
+
 Sample Images
 ![image](https://github.com/kiranneupane11/Document_Image_Classification/assets/56816182/6e3bc18c-a67f-43f5-9e3b-0012b5cc9cd9)  
 ![image](https://github.com/kiranneupane11/Document_Image_Classification/assets/56816182/207b4781-5af2-4886-9f64-47a46ce778c9)
