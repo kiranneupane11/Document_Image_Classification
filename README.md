@@ -1,5 +1,6 @@
-#Document Image Classification
-Document Image Classification using CNN.
+# Document Image Classification
+
+Document Image Classification with deep learning neural network.
 
 Model Architecture: VGG-16
 
