@@ -1,4 +1,4 @@
-Document Image Classification
+#Document Image Classification
 Document Image Classification using CNN.
 
 Model Architecture: VGG-16
