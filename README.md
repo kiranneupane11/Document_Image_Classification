@@ -1,8 +1,26 @@
-# Document_Image_Classification
+Document Image Classification
 Document Image Classification using CNN.
-*Uses VGG-16 model architecture to accurately predict the type of document among 5 categories: Letter(0), Memo(1), Advertisements(2), Articles(4), Scientific Papers(3).
-*Training loss: 0.4424 - Training accuracy: 86.94%
-*Val_loss: 0.5175 - Val_accuracy: 83.81%
-![image](https://github.com/kiranneupane11/Document_Image_Classification/assets/56816182/513e7919-e744-4700-a80a-a53add37f54a)
- ![image](https://github.com/kiranneupane11/Document_Image_Classification/assets/56816182/f7ea53f8-00ca-4e2c-a6c3-bfe461ff685c)     
-Link to google collab: https://colab.research.google.com/drive/1NLSheZ4L8GRm5plumlG2gjumqpvMw8t2?usp=sharing
+
+Model Architecture: VGG-16
+
+Objective: Accurately predict the type of document among 5 categories:
+
+Letter (0)
+Memo (1)
+Advertisements (2)
+Scientific Papers (3)
+Articles (4)
+Training Metrics:
+
+Training Loss: 0.4424
+Training Accuracy: 86.94%
+Validation Metrics:
+
+Validation Loss: 0.5175
+Validation Accuracy: 83.81%
+Sample Images
+![image](https://github.com/kiranneupane11/Document_Image_Classification/assets/56816182/6e3bc18c-a67f-43f5-9e3b-0012b5cc9cd9)  ![image](https://github.com/kiranneupane11/Document_Image_Classification/assets/56816182/207b4781-5af2-4886-9f64-47a46ce778c9)
+
+
+Google Colab Notebook
+https://colab.research.google.com/drive/1NLSheZ4L8GRm5plumlG2gjumqpvMw8t2?usp=sharing#scrollTo=5pWsrzjmtRpf
